@@ -19,7 +19,7 @@ body{
     font-size: 15px;
 }
 canvas{
-    border-radius: 10px;
+    border-radius: 11px;
     background-color: red;
     box-shadow: 7px 7px 7px white;
     margin-left: 330px;

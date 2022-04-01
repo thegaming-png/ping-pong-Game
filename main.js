@@ -1,5 +1,6 @@
 Status = "";
 input_text = "";
+hahha = "";
 
 function setup(){
     canvas = createCanvas(300,290);
