@@ -22,6 +22,7 @@ canvas{
     border-radius: 10px;
     background-color: red;
     box-shadow: 7px 7px 7px white;
+    margin-left: 330px;
 }
 p{
     color: black;
